@@ -12,7 +12,7 @@ int main(void)
 
 {
 
-	String c;
+	unsigned char c;
 
 		for (c = '0'; c <= '9'; c++)
 
