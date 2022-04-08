@@ -8,15 +8,15 @@
 
 /**
  *
- * * main - print if the number is postive, zero, or negative
+ * main - print if the number is postive, zero, or negative
  *
- * *
  *
- * * Description: using the main function
  *
- * * this program prints "Programming is positive, zero, or negative
+ * Description: using the main function
  *
- * * Return: 0
+ * this program prints "Programming is positive, zero, or negative
+ *
+ * Return: 0
  *
  */
 
@@ -34,7 +34,7 @@ int main(void)
 
 	  /* your code goes there */
 
-		if (n > 0)
+			if (n > 0)
 
 		{
 
@@ -42,7 +42,7 @@ int main(void)
 
 		}
 
-		else if (n == 0)
+			else if (n == 0)
 
 		{
 
@@ -50,7 +50,7 @@ int main(void)
 
 		}
 
-		else if (n < 0)
+			else if (n < 0)
 
 		{
 
@@ -58,6 +58,6 @@ int main(void)
 
 		}
 
-		return (0);
+			return (0);
 
 }
