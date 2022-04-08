@@ -12,7 +12,7 @@ int main(void)
 
 {
 
-	int 1;
+	short c;
 
 		for (c = '0'; c <= '9'; c++)
 
