@@ -12,7 +12,7 @@ int main(void)
 
 {
 
-	unsigned char c;
+	int 1;
 
 		for (c = '0'; c <= '9'; c++)
 
