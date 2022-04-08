@@ -36,7 +36,7 @@ int main(void)
 
 
 
-	if (l > 5)
+		if (l > 5)
 
 	{
 
@@ -44,7 +44,7 @@ int main(void)
 
 	}
 
-	else if (l == 0)
+		else if (l == 0)
 
 	{
 
@@ -52,7 +52,7 @@ int main(void)
 
 	}
 
-	else
+		else
 
 	{
 
@@ -60,6 +60,6 @@ int main(void)
 
 	}
 
-	return (0);
+		return (0);
 
 }
