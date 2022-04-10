@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * Main - program that prints all the combination of 3
+ * main - program that prints all the combination of 3
  *
  * Description: using the main function
  * the program prints all the possible combination of 3 digits
