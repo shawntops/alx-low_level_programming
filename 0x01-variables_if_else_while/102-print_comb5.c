@@ -2,15 +2,15 @@
 #include <stdlib.h>
 
 /**
- * main: Write a program that prints all possible combinations of two two-digit numbers.
+ * main: prints all possible combinations of two two-digit numbers.
  *
- * Description: usin the main function
+ * Description: using the main function
  * this program prints the different combinnation of two two-digit number
  * Return: 0
  */
 int main(void)
 {
-	int c =0;
+	int c = 0;
 	int f_d;
 	int l_d;
 	int c2;
