@@ -42,7 +42,7 @@ int main(void)
 					putchar(' ');
 				}
 			}
-			c2++
+			c2++;
 		}
 		c++;
 	}
