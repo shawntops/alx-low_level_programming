@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * main: prints all possible combinations of two two-digit numbers.
+ * main - prints all possible combinations of two two-digit numbers.
  *
  * Description: using the main function
  * this program prints the different combinnation of two two-digit number
